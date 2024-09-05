@@ -14,6 +14,7 @@ export {
         [0x05] = "Unused",
         [0x06] = "Attention Request",
         [0x07] = "Bulk Load Data",
+        [0x08] = "Federated Authentication Token",
         [0x0E] = "Transcation Manager Request",
         [0x0F] = "TDS5 Query",
         [0x10] = "TDS7 Login",
